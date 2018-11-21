@@ -10,6 +10,7 @@ By the end of this lesson, you'll be able to
 
 ## `document.createElement()`
 
+
 Creating an element in JavaScript couldn't be easier. Simply call
 `document.createElement(tagName)`, where `tagName` is the string representation
 of any valid HTML tag (e.g., `'p'`, `'div'`, `'span'`, etc.).
@@ -81,7 +82,8 @@ Hm, that looks a bit ugly. Let's fix it
 ul.style.textAlign = 'left';
 ```
 
-That's better.
+
+
 
 ## `removeChild()`
 
